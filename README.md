@@ -1,5 +1,7 @@
-### Hi there 👋
-### My name is Rajnish Pandey
+<h1 align="center">Hi there 👋 <br>
+  My name is Rajnish Pandey </h1>
+  
+  
 I am a 2nd year UG Student in CSE at KIIT Bhubaneshwar
 
 
