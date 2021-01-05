@@ -2,7 +2,7 @@
   My name is Rajnish Pandey </h1>
   
 <h1>How I spent my time most of the time.</h1>
-<img src="" alt="">
+<img src="BeFunky-Collage.jpg" alt="">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnsih-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="rajnish-pandey"/> </p>
 
