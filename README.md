@@ -4,7 +4,7 @@
 <h1>How I spent my time most of the time.</h1>
 <a href="https://ibb.co/Jd61M0P"><img width="400" height="400" src="https://i.ibb.co/KG4P3RH/Be-Funky-collage.jpg" alt="Be-Funky-collage" border="0"></a>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnsih-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="rajnish-pandey"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnish-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="rajnish-pandey"/> </p>
 
 I am a 2nd year UG Student in CSE at KIIT Bhubaneshwar
 
