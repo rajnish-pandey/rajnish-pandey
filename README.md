@@ -6,7 +6,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnish-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="rajnish-pandey"/> </p>
 
-I am a 2nd year UG Student in CSE at KIIT Bhubaneshwar
+I am a 2nd year UG Student in CSE at KIIT Bhubaneshwar.
 
 ### - 📫 How to reach me: ...
 
