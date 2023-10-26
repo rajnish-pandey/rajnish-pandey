@@ -2,4 +2,4 @@
 <h1 align="center">Hi there 👋 <br>
   My name is Rajnish Pandey </h1>
 
-<h3>2019-2023 Batch(CSE) Passout from KIIT University Bhubaneswar. </h3>
+<h3 align="center">2019-2023 Batch(CSE) Passout from KIIT University Bhubaneswar. </h3>
